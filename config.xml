@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<avtoklavs>
+  <avtoklav id="1">
+
+    <tapparat>
+      <adress>16</adress>
+    </tapparat>
+
+    <papparat>
+      <adress>20</adress>
+    </papparat>
+
+    <trubashkaverh>
+      <adress>18</adress>
+    </trubashkaverh>
+
+    <trubashkaniz>
+      <adress>17</adress>
+    </trubashkaniz>
+
+    <tpodachapara>
+      <adress>19</adress>
+    </tpodachapara>
+
+    <uroven>
+      <adress>30</adress>
+    </uroven>
+
+  </avtoklav>
+
+
+  <avtoklav id="2">
+
+    <tapparat>
+      <adress>24</adress>
+    </tapparat>
+
+    <papparat>
+      <adress></adress>
+    </papparat>
+
+    <trubashkaverh>
+      <adress>26</adress>
+    </trubashkaverh>
+
+    <trubashkaniz>
+      <adress>25</adress>
+    </trubashkaniz>
+
+    <tpodachapara>
+      <adress>27</adress>
+    </tpodachapara>
+
+    <uroven>
+      <adress>28</adress>
+    </uroven>
+
+  </avtoklav>
+
+  <avtoklav id="3">
+
+    <tapparat>
+      <adress>8</adress>
+    </tapparat>
+
+    <papparat>
+      <adress>13</adress>
+    </papparat>
+
+    <trubashkaverh>
+      <adress>10</adress>
+    </trubashkaverh>
+
+    <trubashkaniz>
+      <adress>9</adress>
+    </trubashkaniz>
+
+    <tpodachapara>
+      <adress>11</adress>
+    </tpodachapara>
+
+    <uroven>
+      <adress>12</adress>
+    </uroven>
+
+  </avtoklav>
+
+  <avtoklav id="4">
+
+    <tapparat>
+      <adress>0</adress>
+    </tapparat>
+
+    <papparat>
+      <adress>30</adress>
+    </papparat>
+
+    <trubashkaverh>
+      <adress>2</adress>
+    </trubashkaverh>
+
+    <trubashkaniz>
+      <adress>1</adress>
+    </trubashkaniz>
+
+    <tpodachapara>
+      <adress>3</adress>
+    </tpodachapara>
+
+    <uroven>
+      <adress>30</adress>
+    </uroven>
+
+  </avtoklav>
+
+  <avtoklav id="5">
+
+    <tapparat>
+      <adress>22</adress>
+    </tapparat>
+
+    <papparat>
+      <adress></adress>
+    </papparat>
+
+    <trubashkaverh>
+      <adress></adress>
+    </trubashkaverh>
+
+    <trubashkaniz>
+      <adress></adress>
+    </trubashkaniz>
+
+    <tpodachapara>
+      <adress></adress>
+    </tpodachapara>
+
+    <uroven>
+      <adress></adress>
+    </uroven>
+
+  </avtoklav>
+</avtoklavs>
